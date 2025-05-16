@@ -1,5 +1,5 @@
 # VBA-Weekly-Closed-Loop-
-Format the weekly closed loop
+Format the weekly closed loop, changing header and formating 
 Sub ClosedLoop()
 '
 ' ClosedLoop Macro
